@@ -4,7 +4,7 @@ Team 201 Test
 
 ### User Story ###
 
-As a user I want to retrieve the second oldest message store in my database when I click on a button. 
+As a user I want to retrieve the second oldest message stored in my database when I click on a button. 
 (The message should be written on my screen when I click the button)
 
 ### Requirements ###
